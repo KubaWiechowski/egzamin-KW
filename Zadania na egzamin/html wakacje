@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moje wakacje 2025</title>
+</head>
+<body>
+    <h1>Moje wakacje</h1>
+    
+    <section>
+        <h2>Opis</h2>
+        <p>W 2025 roku spędziłem wakacje w Toronto. Zwiedziłem wiele pięknych miejsc, takich jak Toronto Island i na Cn Tower . Czas spędzałem na plaży, odkrywając lokalną kulturę i smakując regionalne potrawy.</p>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Ulubione wspomnienia</h2>
+        <ol>
+            <li>Rejs na Toronto Island</li>
+            <li>Wizyta na Toronto Island</li>
+            <li>Relaks na plaży </li>
+        </ol>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Atrakcje</h2>
+        <table border="1">
+            <tr>
+                <th>Miejsce odwiedzone</th>
+                <th>Atrakcja</th>
+            </tr>
+            <tr>
+                <td>Toronto</td>
+                <td>CN Tower</td>
+            </tr>
+            <tr>
+                <td>Hamburg</td>
+                <td>Ratusz w Hamburgu</td>
+            </tr>
+            <tr>
+                <td>Sopot</td>
+                <td>Molo</td>
+            </tr>
+        </table>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Galeria</h2>
+        <img src="https://example.com/moje_wakacje.jpg" alt="Zdjęcie z wakacji" width="500">
+    </section>
+
+    <hr>
+
+    <section>
+        <h3>Linki zewnętrzne</h3>
+        <a href="https://tiny.pl/vzz-jk9d" target="_blank">Przewodnik turystyczny po Toronto</a>
+    </section>
+</body>
+</html>
